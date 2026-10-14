@@ -1,16 +1,18 @@
-## Hi there 👋
+#Привет! Я Нарим.
 
-<!--
-**Narim1111/Narim1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### junior / intern Java Backend Developer
+Студент 2-го курса КНИТУ-КАИ(ИИиСАПР). Начинаю разработку бэкенд-сервисов на **Java** и **Spring Boot**, работаю с реляционными базами данных(**PostgreSQL) и автоматизацией.
 
-Here are some ideas to get you started:
+Стек технологий:
+-**Languages:** Java 17+, C++, C#,  SQL
+-**Backend:** Spring Boot, Spring Data JPA, Hibernate, REST API
+-**Databases:** PostgreSQL, JDBC
+-**Tools & DevOps:** Git, Docker, Maven, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Мои проекты:
+- **Coupon Management Service** - RESTful API для управлениями купонами на Spring Boot + PostgreSQL.
+- **Telegram Automation Bot** - Сервис автоматизации интеграций.
+
+### Как со мной связаться:
+-Telegram: [@Salmanovnn]
+-Email: narimsal555@gmail.com
