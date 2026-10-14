@@ -10,7 +10,7 @@
 -**Tools & DevOps:** Git, Docker, Maven, Postman
 
 # Мои проекты:
-- **Coupon Management Service** - RESTful API для управлениями купонами на Spring Boot + PostgreSQL.
+- **[Coupon Management Service](https://github.com/Narim1111/coupon-management-service)** - RESTful API для управлениями купонами на Spring Boot + PostgreSQL.
 - **Telegram Automation Bot** - Сервис автоматизации интеграций.
 
 ### Как со мной связаться:
